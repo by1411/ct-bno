@@ -1,2885 +1,3033 @@
 [
-{
-  "ref": "09BEF7B0371C8D300EFBEB69A79C918CCA1EAF36F0DD1925AF74298A151DBD95(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=DBS Bank (China) Limited, L=Shanghai, C=CN",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 364992398,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "DBS Bank (China) Limited",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "DBS Bank (China) Limited",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "DBS Bank (China) Limited",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1629882993816,
-    "modified": 1629943251417,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "1bb4f179-5b61-4310-8741-8f743b008f74"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=DBS Bank (China) Limited, L=Shanghai, C=CN"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "CC2C4907FC7B943AB91BCE1F7D8A1694F0B4BFF53EDD02998E86A49290D9E2FC(0)",
-  "_data": {
-    "member": "OU=Global Trade and Receivables Finance Production, O=The Hongkong and Shanghai Banking Corporation Limited, L=Bangkok, C=TH",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 189127242,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "HSBC Thailand",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "The Hongkong and Shanghai Banking Corporation Limited",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "The Hongkong and Shanghai Banking Corporation Limited",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1629861433158,
-    "modified": 1629869972999,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "6a05ad6f-0de3-4e7e-95f3-2a8f59b3fa5e"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Global Trade and Receivables Finance Production, O=The Hongkong and Shanghai Banking Corporation Limited, L=Bangkok, C=TH"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "062E506080426C5F19AC2224F9676C2FDA2F94B4D131A359C43B83ECECBB7250(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=INDORAMA PETROCHEM LIMITED, L=Bangkok, C=TH",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 76611502,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "INDORAMA PETROCHEM LIMITED",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "INDORAMA PETROCHEM LIMITED",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "INDORAMA PETROCHEM LIMITED",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1629795505777,
-    "modified": 1629856157056,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "4ab56d67-06e8-4eab-913c-73c8a7a972a6"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=INDORAMA PETROCHEM LIMITED, L=Bangkok, C=TH"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "F2B0FC5BD781855C1B9C77854F628F03F550B52C618E7900BFC4ED677F3A0021(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=TPT PETROCHEMICALS PUBLIC COMPANY LIMITED, L=Bangkok, C=TH",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 419250959,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "TPT PETROCHEMICALS PUBLIC COMPANY LIMITED",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "TPT PETROCHEMICALS PUBLIC COMPANY LIMITED",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "TPT PETROCHEMICALS PUBLIC COMPANY LIMITED",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1629796211664,
-    "modified": 1629856129146,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "fd858daa-4296-49cc-b476-187cd89077dd"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=TPT PETROCHEMICALS PUBLIC COMPANY LIMITED, L=Bangkok, C=TH"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "073A787CC729EB7CF65962FDEB8F512B771D54FC4436843D7C721E8C691B8E02(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=Bajaj Auto Limited, L=Pune, C=IN",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 266516712,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "Bajaj Auto Limited",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Bajaj Auto Limited",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "Bajaj Auto Limited",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1629731433943,
-    "modified": 1629769692874,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "12d75939-5372-40c0-9f57-e3090b48865b"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=Bajaj Auto Limited, L=Pune, C=IN"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "FBC66E93AA31C99006FCA8FEB5D3C4D5908691E232B21E37237BEA069CEC43CD(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=Indorama Polyester Industries Public Company Limited, L=Bangkok, C=TH",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 299071760,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "Indorama Polyester Industries Public Company Limited",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Indorama Polyester Industries Public Company Limited",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "Indorama Polyester Industries Public Company Limited",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1629696514870,
-    "modified": 1629769659058,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "01498cb4-edcf-4a00-a810-03dce7d62fcb"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=Indorama Polyester Industries Public Company Limited, L=Bangkok, C=TH"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "33A10C17CB5E77341BDF09495B53700BE03271A4E0CB041562011CC4823E585E(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=RANGPUR METAL INDUSTRIES LIMITED, L=HOBIGONJ, C=BD",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 16001518,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "RANGPUR METAL INDUSTRIES LIMITED UNIT 3",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "RANGPUR METAL INDUSTRIES LIMITED UNIT 3",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "RANGPUR METAL INDUSTRIES LIMITED UNIT 3",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1628669246148,
-    "modified": 1629704983647,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "1da63bb8-6e9b-4ce6-9fbb-5c675cd6f8b0"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=RANGPUR METAL INDUSTRIES LIMITED, L=HOBIGONJ, C=BD"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "ECEFE390C64C877F0A91650225FB8BA44EFCE52BB6A957D9A551BCEBBD412AF6(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=Jidong Development (HK) International Limited, L=Kowloon Bay, C=HK",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 786604617,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "Jidong Development (HK) International Limited",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Jidong Development (HK) International Limited",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "Jidong Development (HK) International Limited",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1629362248045,
-    "modified": 1629424018830,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "7d11e365-9fcd-4db8-8f30-ac1d4afd444d"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=Jidong Development (HK) International Limited, L=Kowloon Bay, C=HK"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "FB6815B2241FE5CBFDBA7D1B75AEA292D0DE40DBA372E41A4FC131D8DC3AB3E4(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ASIA) LIMITED, L=Hong Kong, C=HK",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 187135132,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ASIA) LIMITED",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ASIA) LIMITED",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ASIA) LIMITED",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1629101932022,
-    "modified": 1629197164464,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "392e5f8f-5314-4d02-a859-ea7317b5a77d"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ASIA) LIMITED, L=Hong Kong, C=HK"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "38EF768AC12038D99B061BA3834292CDC8591B166B12E2817CF94188032F45BB(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=Kumba Singapore Pte Ltd, L=Singapore, C=SG",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 157362304,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "Kumba Singapore Pte Ltd",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Kumba Singapore Pte Ltd",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "Kumba Singapore Pte Ltd",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1629103748689,
-    "modified": 1629196630323,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "3e8c4e36-d7ca-4f06-b857-a82862909987"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=Kumba Singapore Pte Ltd, L=Singapore, C=SG"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "7AFCF3975A92B335D389E73939640C2947A4171C9B90DA44D0AEEDC744390FDF(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=Eldon Development Limited, L=Wan Chai, C=HK",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 863576436,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "Eldon Development Limited",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Eldon Development Limited",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "Eldon Development Limited",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1629103014137,
-    "modified": 1629196492059,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "2b4ac1dc-c70a-4b74-9b11-742d9816c555"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=Eldon Development Limited, L=Wan Chai, C=HK"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "5A614B02FCE8ABC84879070D8A18D3AA989B703A166403B00A6342E67ADF903F(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=PT. CHANDRA ASRI PETROCHEMICAL TBK, L=Jakarta, C=ID",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 627200948,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "PT. CHANDRA ASRI PETROCHEMICAL TBK",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "PT. CHANDRA ASRI PETROCHEMICAL TBK",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "PT. CHANDRA ASRI PETROCHEMICAL TBK",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1628669262783,
-    "modified": 1628676633020,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "35f1807b-c000-489c-9b80-f4626635e715"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=PT. CHANDRA ASRI PETROCHEMICAL TBK, L=Jakarta, C=ID"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "3A2CD8EF36F499C122CE4071EED684B1C21E6879F411F61FB9CB4561863C7491(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=HBIS GROUP SINGAPORE PTE. LTD., L=Singapore, C=SG",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 755701683,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "HBIS GROUP SINGAPORE PTE. LTD.",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "HBIS GROUP SINGAPORE PTE. LTD.",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "HBIS GROUP SINGAPORE PTE. LTD.",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1628588243753,
-    "modified": 1628590573513,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "42931132-8759-4a0f-8ccc-3ec21c022e89"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=HBIS GROUP SINGAPORE PTE. LTD., L=Singapore, C=SG"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "E15EA1B99EE5357082C0CB607021ED18775203CE8940AD52943680AE33CCAAB2(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=WIN FAITH TRADING LIMITED, L=Hong Kong, C=HK",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 180770833,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "WIN FAITH TRADING LIMITED",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "WIN FAITH TRADING LIMITED",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "WIN FAITH TRADING LIMITED",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1628572077321,
-    "modified": 1628590519079,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "303c55f4-1302-41ae-adba-74ee31269ba2"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=WIN FAITH TRADING LIMITED, L=Hong Kong, C=HK"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "0BA82725EF81772ED8FB99FDF744F49EFBB14341942B515D665540196CCE52D4(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=THAI ACRYLIC FIBRE COMPANY LIMITED, L=Bangkok, C=TH",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 214986782,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "THAI ACRYLIC FIBRE COMPANY LIMITED",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "THAI ACRYLIC FIBRE COMPANY LIMITED",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "THAI ACRYLIC FIBRE COMPANY LIMITED",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1628074841643,
-    "modified": 1628181453413,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "83b3fa57-b42c-43a8-8d51-1465f8248056"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=THAI ACRYLIC FIBRE COMPANY LIMITED, L=Bangkok, C=TH"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "5658E21E1A16E770EB19562D0ED504019998F08E0C32876D92D0E12EDE15BBC8(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=Anglo American Marketing Limited, L=London, C=GB",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 698169473,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "Anglo American Marketing Limited",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Anglo American Marketing Limited",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "Anglo American Marketing Limited",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1628160617408,
-    "modified": 1628171964018,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "321aa7e6-a4cf-483b-873a-745d0712bef1"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=Anglo American Marketing Limited, L=London, C=GB"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "4F360274D27C99CBCA6C3EB987813B22E50747C5FAD82623D6DB7E520B6C2B14(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=Anglo American Marketing Limited Singapore Branch, L=Singapore, C=SG",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 839391795,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "Anglo American Marketing Limited Singapore Branch",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Anglo American Marketing Limited Singapore Branch",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "Anglo American Marketing Limited Singapore Branch",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1628075845127,
-    "modified": 1628082097323,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "7e73db4e-8f90-4c12-8501-8401307f31f1"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=Anglo American Marketing Limited Singapore Branch, L=Singapore, C=SG"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "551C27F7A5FB73A0AB797E8FE2E451C465596E10184CE4894EF90D9A17930995(0)",
-  "_data": {
-    "member": "OU=GTRF Production, O=HSBC Bank Middle East LTD, L=Dubai, C=AE",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 479280980,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "HSBC UAE",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "HSBC Bank Middle East LTD",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "HSBC Bank Middle East LTD",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1627653828361,
-    "modified": 1627655197257,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "3d0b22cb-4b36-4faa-848c-8b1ab88edc45"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=GTRF Production, O=HSBC Bank Middle East LTD, L=Dubai, C=AE"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "1EFCEB03C362CE13AE51D64FB5CCC485268FF9908E89DE72B0B1CDFD2F8D7CD0(0)",
-  "_data": {
-    "member": "OU=GTRF Production, O=HSBC Bank Malaysia Berhad, L=Kuala Lumpur, C=MY",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 509447106,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "HSBC Malaysia",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "HSBC Bank Malaysia Berhad",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "HSBC Bank Malaysia Berhad",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1627652286012,
-    "modified": 1627655107804,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "5703e4d4-d61b-4fc9-9a1c-7b512f5ad90d"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=GTRF Production, O=HSBC Bank Malaysia Berhad, L=Kuala Lumpur, C=MY"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "043E0E4D64BAA3490C4CCFAF7EE79878500E89FD74D1C5E38B838969B3DC786D(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=LONGTEX RUBBER INDUSTRY CO. LTD., L=Samut Prakan, C=TH",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 160967364,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "LONGTEX RUBBER INDUSTRY CO. LTD.",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "LONGTEX RUBBER INDUSTRY CO. LTD.",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "LONGTEX RUBBER INDUSTRY CO. LTD.",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1627479502169,
-    "modified": 1627523967091,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "c5733762-ec68-414c-9756-b7b3623892a1"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=LONGTEX RUBBER INDUSTRY CO. LTD., L=Samut Prakan, C=TH"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "220160419F80D7A1B54B72B3134AD4FDB93248BDCF483DD323C75F23D204C4E5(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=SINGAPORE (COGENERATION) STEEL PTE. LTD., L=Singapore, C=SG",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 672528621,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "SINGAPORE (COGENERATION) STEEL PTE. LTD.",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "SINGAPORE (COGENERATION) STEEL PTE. LTD.",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "SINGAPORE (COGENERATION) STEEL PTE. LTD.",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1627456700515,
-    "modified": 1627464613220,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "a2df2016-af28-4563-ab8a-033e0895f477"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=SINGAPORE (COGENERATION) STEEL PTE. LTD., L=Singapore, C=SG"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "9FBD75CF3DF5D419D50DE64DB74C3E9CA72F3BD10FF8AB5BCFD9211134F2822C(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=SUMITOMO MITSUI BANKING CORPORATION SINGAPORE BRANCH, L=Singapore, C=SG",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 697593286,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "SUMITOMO MITSUI BANKING CORPORATION SINGAPORE BRANCH",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "SUMITOMO MITSUI BANKING CORPORATION SINGAPORE BRANCH",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "SUMITOMO MITSUI BANKING CORPORATION SINGAPORE BRANCH",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1627457311099,
-    "modified": 1627464525208,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "0f71cd6d-bba6-4516-8d8a-729c2c842a73"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=SUMITOMO MITSUI BANKING CORPORATION SINGAPORE BRANCH, L=Singapore, C=SG"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "8CEDAD9E7CDEBD71E2FE5EE33FA6694352E5DD757349B806FA8CE188D040FC3A(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=MACWORLD INDUSTRIES LIMITED, L=LABUAN, C=MY",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 242720749,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "MACWORLD INDUSTRIES LIMITED",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "MACWORLD INDUSTRIES LIMITED",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "MACWORLD INDUSTRIES LIMITED",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1627364308282,
-    "modified": 1627379730543,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "3dda018d-450f-46dc-b343-21e83cd05088"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=MACWORLD INDUSTRIES LIMITED, L=LABUAN, C=MY"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "960964600630FA91A59801133FD8EFF521905C9E7EB103BC821A9AD62F484706(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=Aptec Distribution FZ-LLC, L=Dubai, C=AE",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 408372966,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "Aptec Distribution FZ-LLC",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Aptec Distribution FZ-LLC",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "Aptec Distribution FZ-LLC",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1627364864931,
-    "modified": 1627379678077,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "565d3c09-dab8-42ea-b793-63857ea50e67"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=Aptec Distribution FZ-LLC, L=Dubai, C=AE"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "7F3881C595DAFD16C663D072500CD65FB3A1EE1CC5BA0854C260BDC018C673E0(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=STAVIAN CHEMICAL JOINT STOCK COMPANY, L=Hung Yen, C=VN",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 260365413,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "STAVIAN CHEMICAL JOINT STOCK COMPANY",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "STAVIAN CHEMICAL JOINT STOCK COMPANY",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "STAVIAN CHEMICAL JOINT STOCK COMPANY",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1627300083320,
-    "modified": 1627377585722,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "6659bfee-cf2d-4299-b7ce-8e0b5031bab3"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=STAVIAN CHEMICAL JOINT STOCK COMPANY, L=Hung Yen, C=VN"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "534692F7C8702CCFD3B5DCB4C178527C765280900B6CCFC80BAA887C7614583B(0)",
-  "_data": {
-    "member": "OU=Trade Finance Prod, O=Vale International SA, L=St-Prex, C=CH",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 176862724,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "Vale International S.A.",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Vale International S.A.",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "Vale International S.A.",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1627215480000,
-    "modified": 1627215646348,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "9708367e-12b0-4d6f-a1b2-dfbfc40622b2"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance Prod, O=Vale International SA, L=St-Prex, C=CH"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "3D2A631DBEBC0EDC8E8C24FB645B92C52A133F0193A5EDECBF0DCDCD1BFF616F(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=Thailand Anthracite Company Limited, L=Bangkok, C=TH",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 140106384,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "Thailand Anthracite Company Limited",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Thailand Anthracite Company Limited",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "Thailand Anthracite Company Limited",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1626872866456,
-    "modified": 1626920275277,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "cd002c71-3c52-4852-81cc-90ffe59b8d6b"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=Thailand Anthracite Company Limited, L=Bangkok, C=TH"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "BFB2CCF0E9B9062438F235EFAAA0D7323A4832CCF8A6BF9F08715922C1F1A97F(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=Polyplex (Thailand) Public Company Limited, L=Bangkok, C=TH",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 510564880,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "Polyplex (Thailand) Public Company Limited",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Polyplex (Thailand) Public Company Limited",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "Polyplex (Thailand) Public Company Limited",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1626869309562,
-    "modified": 1626920237660,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "54bb4e09-27e1-4336-a6ea-ac50309341ff"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=Polyplex (Thailand) Public Company Limited, L=Bangkok, C=TH"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "2FF4301FE2B3DBC4D3AFE899ADA276B69225403D124EAAB9AA568689A57661F4(0)",
-  "_data": {
-    "member": "OU=CIB ITO-CORDA-SCB IN, O=STANDARD CHARTERED GLOBAL BUSINESS SERVICES PRIVATE LIMITED, L=CHENNAI, C=IN",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 154952850,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "Standard Chartered Bank – Node 1",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "STANDARD CHARTERED GLOBAL BUSINESS SERVICES PRIVATE LIMITED",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "STANDARD CHARTERED GLOBAL BUSINESS SERVICES PRIVATE LIMITED",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1626572967018,
-    "modified": 1626579222162,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "34e56e2e-6add-4b6d-ab3a-6ac160a20bc4"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=CIB ITO-CORDA-SCB IN, O=STANDARD CHARTERED GLOBAL BUSINESS SERVICES PRIVATE LIMITED, L=CHENNAI, C=IN"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "393326FE971B0F878563CD443B1038ABA33B5B6132F55F993AEEE926495A5985(0)",
-  "_data": {
-    "member": "OU=GTRF Production, O=HSBC Bank (China) Company Limited, L=Shanghai, C=CN",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 883662669,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "HSBC China",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "HSBC Bank (China) Company Limited",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "HSBC Bank (China) Company Limited",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1625739605836,
-    "modified": 1625798161836,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "0b3ef04d-e7b7-4c85-b104-5d1feb13e5d7"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=GTRF Production, O=HSBC Bank (China) Company Limited, L=Shanghai, C=CN"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "4C71797BE172EB32F1D994399E9C06999060A10BA9E3DE84FBC9CED529439CE7(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=DBS BANK (HONG KONG) LIMITED, L=Central District, C=HK",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 112554448,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "DBS BANK (HONG KONG) LIMITED",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "DBS BANK (HONG KONG) LIMITED",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "DBS BANK (HONG KONG) LIMITED",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1625744465995,
-    "modified": 1625769611103,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "7d11b2ad-40e4-4090-95ca-112147d0dff6"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=DBS BANK (HONG KONG) LIMITED, L=Central District, C=HK"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "1441B951426D575A9965365B97087B4177B83C3739C765079B9C869A6C2B7988(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=ArcelorMittal Nippon Steel India Limited, L=Surat, C=IN",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 53489564,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "ArcelorMittal Nippon Steel India Limited",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "ArcelorMittal Nippon Steel India Limited",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "ArcelorMittal Nippon Steel India Limited",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1625486241475,
-    "modified": 1625536229047,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "95db02fd-fa17-4c6c-910e-8dc482ade6ec"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=ArcelorMittal Nippon Steel India Limited, L=Surat, C=IN"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "70F58A87C8C22293EC6B5BACB3793817D78B9185A925F56776690845B2D8D4E7(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=CHEMTECH CO. LTD, L=Binh Duong, C=VN",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 427638024,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "CHEMTECH CO. LTD",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "CHEMTECH CO. LTD",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "CHEMTECH CO. LTD",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1625486307727,
-    "modified": 1625536187783,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "299b2e80-a350-4af1-9612-9a83afba7e32"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=CHEMTECH CO. LTD, L=Binh Duong, C=VN"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "07D2F6B27931736989195426810FDE9D7869EFD7989FE59E78378FEFA47B6A66(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=AN PHAT BIOPLASTICS JOINT STOCK COMPANY, L=Hai Duong, C=VN",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 160466141,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "AN PHAT BIOPLASTICS JOINT STOCK COMPANY",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "AN PHAT BIOPLASTICS JOINT STOCK COMPANY",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "AN PHAT BIOPLASTICS JOINT STOCK COMPANY",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1625226611029,
-    "modified": 1625235381338,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "9b2fe922-942c-42d5-957a-129d2b29058f"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=AN PHAT BIOPLASTICS JOINT STOCK COMPANY, L=Hai Duong, C=VN"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "9F656DDC62AC6D93CB02BD2BC6DBDEBDA752B39BDA4D71419D20A7196DFD3CFF(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=Pointer Investment (Hong Kong) Limited, L=Hong Kong, C=HK",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 27155922,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "Pointer Investment  - Hong Kong",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Pointer Investment (Hong Kong) Limited",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "Pointer Investment (Hong Kong) Limited",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1616570397199,
-    "modified": 1625227559130,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "0a3b5b32-8a13-4147-92a6-a9fd5f7703e8"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=Pointer Investment (Hong Kong) Limited, L=Hong Kong, C=HK"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "7D626FEC3196DA377B9FFBF3343A73CADC212ADD60B052092496ECD55D72D84B(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=PALM-OLEO SDN BHD, L=Petaling Jaya, C=MY",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 729539857,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "PALM-OLEO SDN BHD",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "PALM-OLEO SDN BHD",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "PALM-OLEO SDN BHD",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1625226519213,
-    "modified": 1625226819581,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "a02df285-5af1-4aa5-82b2-18b44fdc71c2"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=PALM-OLEO SDN BHD, L=Petaling Jaya, C=MY"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "2EE348102834E4D7D5782928F232C17AA19FAA04C0F3BA60990C941A55AB8FF8(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=BRITISH AMERICAN TOBACCO BANGLADESH CO. LTD., L=Dhaka, C=BD",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 367210856,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "BRITISH AMERICAN TOBACCO BANGLADESH CO. LTD.",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "BRITISH AMERICAN TOBACCO BANGLADESH CO. LTD.",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "BRITISH AMERICAN TOBACCO BANGLADESH CO. LTD.",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1625062847893,
-    "modified": 1625199056401,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "a9db3e7e-fe95-423d-906b-1d598e7d4074"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=BRITISH AMERICAN TOBACCO BANGLADESH CO. LTD., L=Dhaka, C=BD"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "56F2BBC390EAE9EB51998D38C43996F6471FAFAC12BDE4AD3B0C5FCB5A0E71D0(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=PT ARISTA LATINDO, L=Jakarta, C=ID",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 892739391,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "PT ARISTA LATINDO",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "PT ARISTA LATINDO",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "PT ARISTA LATINDO",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1624968697406,
-    "modified": 1625016611732,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "cc698845-5ee5-43af-8fe0-bbdfcda8af3e"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=PT ARISTA LATINDO, L=Jakarta, C=ID"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "E3480E79F1DA562DAA9D3F5ACBE47ABAFDA2030C2F01FD426F6C4DA5BE5DC2E4(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=SCG Performance Chemicals Company Limited, L=Bangkok, C=TH",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 600389668,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "SCG Performance Chemicals Company Limited",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "SCG Performance Chemicals Company Limited",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "SCG Performance Chemicals Company Limited",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1624532943689,
-    "modified": 1624533040567,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "1f4cadeb-771a-4e52-ae83-aa5c54c359d3"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=SCG Performance Chemicals Company Limited, L=Bangkok, C=TH"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "BDE37D5C6A7C5808F677DA85586594B6235941B3C120CAF752A4DEEA392E151E(0)",
-  "_data": {
-    "member": "OU=GTRF Production, O=Hang Seng Bank Limited, L=Central District, C=HK",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 522497260,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "Hang Seng Bank Hong Kong",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Hang Seng Bank Limited",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "Hang Seng Bank Limited",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1617871917887,
-    "modified": 1624524442335,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "7532228b-534d-4836-a2f2-62d3b696193a"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=GTRF Production, O=Hang Seng Bank Limited, L=Central District, C=HK"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "E8B2E9883EED93DD5501D0599A3FA33A6071367701F6519537DE8D4289F98F4D(0)",
-  "_data": {
-    "member": "OU=Global Trade and Receivables Finance Production, O=The Hongkong and Shanghai Banking Corporation Limited, L=Dhaka, C=BD",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 852857632,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "HSBC Bangladesh",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "The Hongkong and Shanghai Banking Corporation Limited",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "The Hongkong and Shanghai Banking Corporation Limited",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1614167472333,
-    "modified": 1624524416500,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "9f0f8474-d337-477b-93ea-50328159699c"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Global Trade and Receivables Finance Production, O=The Hongkong and Shanghai Banking Corporation Limited, L=Dhaka, C=BD"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "8964BC429AED82963D367237E6B42927DA1FDA1C97B7E36218A78E43EBD61446(0)",
-  "_data": {
-    "member": "OU=Global Trade and Receivables Finance Production, O=The Hongkong and Shanghai Banking Corporation Limited, L=Mumbai, C=IN",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 878938163,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "HSBC India",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "The Hongkong and Shanghai Banking Corporation Limited",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "The Hongkong and Shanghai Banking Corporation Limited",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1611756598482,
-    "modified": 1624524376915,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "1d5fe1c4-8dae-4d10-a936-f8ef451cb954"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Global Trade and Receivables Finance Production, O=The Hongkong and Shanghai Banking Corporation Limited, L=Mumbai, C=IN"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "3C57A9941CD52AE82361A332B506803943EB18B4881E4B78E9549D66CC34B8C5(0)",
-  "_data": {
-    "member": "OU=Global Trade and Receivables Finance Production, O=The Hongkong and Shanghai Banking Corporation Limited, L=SINGAPORE, C=SG",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 330856180,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "HSBC Singapore",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "The Hongkong and Shanghai Banking Corporation Limited",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "The Hongkong and Shanghai Banking Corporation Limited",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1613020759992,
-    "modified": 1624524311399,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "5f74a571-0547-48e8-9b57-d7f0309f62dd"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Global Trade and Receivables Finance Production, O=The Hongkong and Shanghai Banking Corporation Limited, L=SINGAPORE, C=SG"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "BE3525B44EFC7070061B13F5D402CD0016A3F3C3809F58064FC57732D74910E6(0)",
-  "_data": {
-    "member": "OU=GTRF Production, O=The Hongkong and Shanghai Banking Corporation Limited, L=Central District, C=HK",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 711592122,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "HSBC Hong Kong",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "The Hongkong and Shanghai Banking Corporation Limited",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "The Hongkong and Shanghai Banking Corporation Limited",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1611887265363,
-    "modified": 1624519377825,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "b67c27d4-55c6-4109-9a51-4d8b3c21c4a2"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=GTRF Production, O=The Hongkong and Shanghai Banking Corporation Limited, L=Central District, C=HK"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "CE63CCA5DB6005AFF1C92746A5EEDA64C322A7FD4683E4F384F30BC849E6FD2A(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=SCG Plastics Company Limited, L=Bangkok, C=TH",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 634153867,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "SCG Plastics Company Limited",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "SCG Plastics Company Limited",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "SCG Plastics Company Limited",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1624022365133,
-    "modified": 1624239909833,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "b40d8299-1509-4dcf-be85-262d57fcc01c"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=SCG Plastics Company Limited, L=Bangkok, C=TH"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "B7F6C9DE67AF62468E09D84141441F26C69A8936E1F7FE20D71D8309682CB599(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=Metal One (Thailand) Company Limited, L=Bangkok, C=TH",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 569400533,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "Metal One (Thailand) Company Limited",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Metal One (Thailand) Company Limited",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "Metal One (Thailand) Company Limited",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1623866952252,
-    "modified": 1623892539840,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "c94cf7d7-36c9-4b35-bcc9-e492223bd602"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=Metal One (Thailand) Company Limited, L=Bangkok, C=TH"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "077DDADF115E46E1408B94F6EBC7627AB1C19ECAA2539FC408D1EC9C1D226CFF(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=CEMCOA LIMITED, L=Hong Kong, C=HK",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 92015259,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "CEMCOA LIMITED",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "CEMCOA LIMITED",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "CEMCOA LIMITED",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1623667165420,
-    "modified": 1623718831611,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "5f756696-22f9-4be6-95f7-eac38c1edcd9"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=CEMCOA LIMITED, L=Hong Kong, C=HK"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "9F4A1F05BF65DE88729C6B4864B81A46C8720C18F945AB3EAC7EA234C713D5A1(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=HONG KONG JINTENG DEVELOPMENT LIMITED, L=Hong Kong, C=HK",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 58791134,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "HONG KONG JINTENG DEVELOPMENT LIMITED",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "HONG KONG JINTENG DEVELOPMENT LIMITED",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "HONG KONG JINTENG DEVELOPMENT LIMITED",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1623415182011,
-    "modified": 1623636517333,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "3583654f-e7ff-4fc7-b7b0-d46bbe0c5f78"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=HONG KONG JINTENG DEVELOPMENT LIMITED, L=Hong Kong, C=HK"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "183483BE08E2ECABE9F4646951BC79C2B479B75A84A173333B941667A3E029BD(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=Chandra Asri Trading Company Pte Ltd, L=Singapore, C=SG",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 152502340,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "Chandra Asri Trading Company Pte Ltd",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Chandra Asri Trading Company Pte Ltd",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "Chandra Asri Trading Company Pte Ltd",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1623052832056,
-    "modified": 1623054749742,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "aa20dc5d-1263-48e6-8626-17fa10516e14"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=Chandra Asri Trading Company Pte Ltd, L=Singapore, C=SG"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "065C0706D6BAC1FFCC7A1C17214E49FA7A1389FE7F952AAF19EE4D1C5E01A7EE(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=Singapore Jinteng International Pte Ltd, L=Singapore, C=SG",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 410876024,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "Singapore Jinteng International Pte Ltd",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Singapore Jinteng International Pte Ltd",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "Singapore Jinteng International Pte Ltd",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1622731808982,
-    "modified": 1623034903498,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "600190bd-f2c9-46f8-9c4d-15d9649b63b4"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=Singapore Jinteng International Pte Ltd, L=Singapore, C=SG"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "5A9A4831BC5DC4293C88EB63F3EAEE5D252C927944145B2D3FEB35814756B5B2(0)",
-  "_data": {
-    "member": "OU=CIB ITO-CORDA, O=Standard Chartered Bank (Singapore) Limited, L=Singapore, C=SG",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 197542693,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "Standard Chartered Bank - Node 3",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Standard Chartered Bank (Singapore) Limited",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "Standard Chartered Bank (Singapore) Limited",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1610086487212,
-    "modified": 1620613025462,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "b9365b37-4689-4205-bee4-49e2742a3b83"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=CIB ITO-CORDA, O=Standard Chartered Bank (Singapore) Limited, L=Singapore, C=SG"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "DFB76D88CAA45801132834F0340DC4E3531DF9D765B83194EE19727446D74F5E(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=TOPTIP HOLDING PTE. LTD, L=Singapore, C=SG",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 485648362,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "TOPTIP HOLDING PTE. LTD",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "TOPTIP HOLDING PTE. LTD",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "TOPTIP HOLDING PTE. LTD",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1620065143131,
-    "modified": 1620092195829,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "55502b70-9f39-4ff4-b4c7-4e16453a77c7"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=TOPTIP HOLDING PTE. LTD, L=Singapore, C=SG"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "7378460F8DA6E9BCE8E045E2ECD3B0E6511F36CA3C14AB07092410A63D76115B(0)",
-  "_data": {
-    "member": "OU=CTR PRD AGENT 01, O=BNP PARIBAS, L=PARIS, C=FR",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 82710369,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "BNP PARIBAS",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "BNP PARIBAS",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "BNP PARIBAS",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1618930622394,
-    "modified": 1619602717781,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "4202aeaf-56f1-4973-9598-b7c532380c00"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=CTR PRD AGENT 01, O=BNP PARIBAS, L=PARIS, C=FR"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "4A7E0C660AC1DDC5F0752A6D60C09437FA80464D3DBF765A2FE95001A5042458(0)",
-  "_data": {
-    "member": "OU=Comprehensive Fabric, O=Contour Pte. Ltd., L=Singapore, C=SG",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 287885091,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "Comprehensive Fabric Corp",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Comprehensive Fabric",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "Comprehensive Fabric",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1598600352334,
-    "modified": 1619167159879,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "a54ed4f7-c5f4-4577-8a00-fe43a9970db1"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Comprehensive Fabric, O=Contour Pte. Ltd., L=Singapore, C=SG"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "EE4B5C6106EF6EE83B6B559FAD285B6022D07D1090CD72E9AFC3D166FD51EC01(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=HBIS Group Hong Kong Co. Limited, L=Hong Kong, C=HK",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 928801753,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "HBIS Group Hong Kong Co. Limited",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "HBIS Group Hong Kong Co. Limited",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "HBIS Group Hong Kong Co. Limited",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1618908797718,
-    "modified": 1618910967943,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "81f42f08-692a-40ee-9603-672444c33ee8"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=HBIS Group Hong Kong Co. Limited, L=Hong Kong, C=HK"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "485009C108A8A0AEADD12B8B428FE546235AD2B869DC44F03C381BB99D1289CD(0)",
-  "_data": {
-    "member": "OU=Node1, O=Skandinaviska Enskilda Banken AB (publ), L=Stockholm, C=SE",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 11567442,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "SEB",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Skandinaviska Enskilda Banken AB",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "Skandinaviska Enskilda Banken AB",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1604486256448,
-    "modified": 1618390656926,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "c7c6f7d8-0262-4f15-96b7-d596ed7571ec"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Node1, O=Skandinaviska Enskilda Banken AB (publ), L=Stockholm, C=SE"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "2834734130472991D139AC40DC8D9A147FE70DE80B10B613F82270974D9960A7(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=HANGZHOU IRON & STEEL (H.K.) COMPANY LIMITED, L=Hong Kong, C=HK",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 578096936,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "HANGZHOU IRON & STEEL (H.K.) COMPANY LIMITED",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "HANGZHOU IRON & STEEL (H.K.) COMPANY LIMITED",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "HANGZHOU IRON & STEEL (H.K.) COMPANY LIMITED",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1617961331058,
-    "modified": 1617962239151,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "6b5cd931-267a-4060-9edc-e2b5594bad28"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=HANGZHOU IRON & STEEL (H.K.) COMPANY LIMITED, L=Hong Kong, C=HK"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "E17EBFB595F08D25F07F3DB85E5F4E0B50D9E7E495C8A15274CEDF05C000B684(0)",
-  "_data": {
-    "member": "OU=Mid Atlantic Bank, O=Contour Pte. Ltd., L=Singapore, C=SG",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 297362855,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "Mid Atlantic Bank Ltd.",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Mid Atlantic Bank Ltd.",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "Mid Atlantic Bank Ltd.",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1598601033637,
-    "modified": 1617248956234,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "917d68cb-7777-47a7-bfcb-aea228ce1851"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Mid Atlantic Bank, O=Contour Pte. Ltd., L=Singapore, C=SG"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "78D54277955376EA75C5203BBC75AC0E02CAA28E873D024A444477A5A31F9EB7(0)",
-  "_data": {
-    "member": "OU=Permata, O=PT BANK PERMATA TBK, L=Jakarta, C=ID",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 769225837,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "PT BANK PERMATA TBK",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "PT BANK PERMATA TBK",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "PT BANK PERMATA TBK",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1617091301869,
-    "modified": 1617092809492,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "891118cc-d2d7-4608-9577-4b17ead7d885"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Permata, O=PT BANK PERMATA TBK, L=Jakarta, C=ID"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "714B07CB681CED29DF3CB8CD0143D955FD5FCD2DF4AEADCD4E28E45E2AAE49CA(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=DBS BANK LTD., L=Singapore, C=SG",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 722481030,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "DBS BANK LTD.",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "DBS BANK LTD.",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "DBS BANK LTD.",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1617018805293,
-    "modified": 1617019083452,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "794505b5-e1d0-49e5-80ae-3de87b171f2c"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=DBS BANK LTD., L=Singapore, C=SG"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "3A7D03F3CC38BBA6CDC8934945F49D4C370ECFE0D8CB8187565671A55841AB51(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=Bangkok Bank Public Company Limited, L=Bangkok, C=TH",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 725177225,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "Bangkok Bank - Thailand",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Bangkok Bank - Thailand",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "Bangkok Bank - Thailand",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1616570348759,
-    "modified": 1616573775158,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "a5aa337f-78f5-4b8b-95c6-6ed496fb728b"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=Bangkok Bank Public Company Limited, L=Bangkok, C=TH"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "163F125DD52493875FD7CF002C32E5E71CB82BC3BACDD0D7560387A033E786D6(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=ROBE RIVER ORE SALES PTY. LTD., L=PERTH, C=AU",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 84736786,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "ROBE RIVER ORE SALES PTY. LTD.",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "ROBE RIVER ORE SALES PTY. LTD.",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "ROBE RIVER ORE SALES PTY. LTD.",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1616569216616,
-    "modified": 1616573719992,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "ddf31920-f005-46fe-bea1-3cf76d5887b5"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=ROBE RIVER ORE SALES PTY. LTD., L=PERTH, C=AU"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "2D27700C00761E64FCA6F595AC52676FCA6626E35C69DCF5C7A6716730886801(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=Bangkok Bank Public Company Limited, L=Ho Chi Minh City, C=VN",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 269950954,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "Bangkok Bank - Vietnam",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Bangkok Bank - Vietnam",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "Bangkok Bank - Vietnam",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1616490508179,
-    "modified": 1616557111774,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "4ed8a73b-9792-4425-bd4a-58bf8e9df147"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=Bangkok Bank Public Company Limited, L=Ho Chi Minh City, C=VN"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "9B47B2BBDB5F33CA5A508D0F5AF2A1FD78293AD9FD424D5A06FEC8179683C660(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=HOPE DOWNS MARKETING COMPANY PTY LTD, L=PERTH, C=AU",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 83641626,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "HOPE DOWNS MARKETING COMPANY PTY LTD",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "HOPE DOWNS MARKETING COMPANY PTY LTD",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "HOPE DOWNS MARKETING COMPANY PTY LTD",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1616490674249,
-    "modified": 1616554511856,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "c8dbfbbe-3c53-40c1-a206-629d814b4745"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=HOPE DOWNS MARKETING COMPANY PTY LTD, L=PERTH, C=AU"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "EF069B6423F544A64DEDB8D3DB712E98AE1474FD58E9F41286C06BEC923F3743(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=Rio Tinto Commercial Pte Ltd, L=Singapore, C=SG",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 983807791,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "Rio Tinto Commercial Pte Ltd",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Rio Tinto Commercial Pte Ltd",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "Rio Tinto Commercial Pte Ltd",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1615542251976,
-    "modified": 1615553480400,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "fe3dfa9c-1aad-45da-8ddb-e800dbe9bc1d"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=Rio Tinto Commercial Pte Ltd, L=Singapore, C=SG"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "1B93BA89C99B2F7AC105AC71CFEF2D31B2184DF6996492B8466DEECF4A7CDA39(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=Industrial and Commercial Bank of China Limited Xiamen Branch Business Office, L=Xiamen, C=CN",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 195191574,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA,XIAMEN CITY BRANCH",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA,XIAMEN CITY BRANCH",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA,XIAMEN CITY BRANCH",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1615482892582,
-    "modified": 1615513657489,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "3c0181bf-c39e-4d15-868c-6d9d2cf26157"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=Industrial and Commercial Bank of China Limited Xiamen Branch Business Office, L=Xiamen, C=CN"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "DD7C832095E9E83AC06F906301D43BA7B7D1D24B07F42D820C3CA399E81DA70B(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=Xiamen ITG Group Corp. Ltd, L=Xiamen, C=CN",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 381818972,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "Xiamen ITG Group Corp., Ltd",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Xiamen ITG Group Corp., Ltd",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "Xiamen ITG Group Corp., Ltd",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1615482960930,
-    "modified": 1615513569391,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "85ad1136-7725-454f-9d9e-3df7a4bf8adf"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=Xiamen ITG Group Corp. Ltd, L=Xiamen, C=CN"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "D519F93F47DB415BC8C015EEEEB1CF8C47BBFEDDD01CB4298AAA7A4AD6185D94(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=Bank of China (Hong Kong) Limited, L=Hong Kong, C=HK",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 999225753,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "Bank of China (Hong Kong) Limited",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Bank of China (Hong Kong) Limited",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "Bank of China (Hong Kong) Limited",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1614915184932,
-    "modified": 1614915241867,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "85aad90d-0bce-4b9c-b77a-9ee963de50a3"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=Bank of China (Hong Kong) Limited, L=Hong Kong, C=HK"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "9537793BFFC7FF2128CF2233DC45A965B177C3D33220FCA5568D2398DB3CD46A(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=TATA STEEL LIMITED, L=Mumbai, C=IN",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 404564522,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "TATA STEEL LIMITED",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "TATA STEEL LIMITED",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "TATA STEEL LIMITED",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1614160936191,
-    "modified": 1614160977375,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "99d00d8a-3a72-4e26-a13b-3876dcf033dd"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=TATA STEEL LIMITED, L=Mumbai, C=IN"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "4D11BA012D5F6F2729D037CACF6608D125002CDB1958789454A6E5200B56AC79(0)",
-  "_data": {
-    "member": "OU=Trade Finance, O=Universal Tube and Plastic Industries Ltd., L=Dubai, C=AE",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 668283612,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "Universal Tube and Plastic Industries Ltd.",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Universal Tube and Plastic Industries Ltd.",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "Universal Tube and Plastic Industries Ltd.",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1614154911307,
-    "modified": 1614154976785,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "284d9f83-86ce-4fda-8478-508e244181b6"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Trade Finance, O=Universal Tube and Plastic Industries Ltd., L=Dubai, C=AE"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "47DCA9C49C98AE54B5F8B3A9000B266648D1EFA6D5A1132509D3BAB48E534532(0)",
-  "_data": {
-    "member": "OU=Dictionary Bank, O=Contour Pte. Ltd., L=Singapore, C=SG",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 43013727,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "Dictionary Bank",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Dictionary Bank",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "Dictionary Bank",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1613992875011,
-    "modified": 1614006528669,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "b0d81a7f-019f-4293-a379-460548bd5d9d"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Dictionary Bank, O=Contour Pte. Ltd., L=Singapore, C=SG"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "1F6659B1C7057D375BACE0B86A30D64DF06C3EC048D6B0131A500E9BBE9E3852(0)",
-  "_data": {
-    "member": "OU=Delta One Corp, O=Contour Pte. Ltd., L=Singapore, C=SG",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 116301400,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "Delta One Corp",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Delta One Corp",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "Delta One Corp",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1613992922985,
-    "modified": 1614006469646,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "1cb1a6ae-10bd-476c-b564-1c69951a82fd"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Delta One Corp, O=Contour Pte. Ltd., L=Singapore, C=SG"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "5817FD6FDF2AF75A9D7ADC2E01BC2861516C9A105B13737474D86E1D9D98D6A3(0)",
-  "_data": {
-    "member": "OU=Century Bank, O=Contour Pte. Ltd., L=Singapore, C=SG",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 123744915,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "Century Bank",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Century Bank",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "Century Bank",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1613992851204,
-    "modified": 1614006405867,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "b55e667b-ccf8-44a7-ab9e-97b425f8fc0d"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Century Bank, O=Contour Pte. Ltd., L=Singapore, C=SG"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "4D6855E93736978CCA67665ACF941BFAFC2D455912AD6DCEE3D1535078924A51(0)",
-  "_data": {
-    "member": "OU=Comprehensive Corp, O=Contour Pte. Ltd., L=Singapore, C=SG",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 793152576,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "Comprehensive Corp",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Comprehensive Corp",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "Comprehensive Corp",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1613992854591,
-    "modified": 1614006375358,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "8826fedd-5de5-4a6b-b780-01a1e021034e"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Comprehensive Corp, O=Contour Pte. Ltd., L=Singapore, C=SG"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "198D4BA1DA1387CD0AEE56EB20154E40DA32CD939A9BE2BF533AB85893984EA9(0)",
-  "_data": {
-    "member": "OU=Asia Best Bank, O=Contour Pte. Ltd., L=Singapore, C=SG",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 647136517,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "Asia Best Bank",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {},
-      "legalName": "",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1598600870198,
-    "modified": 1613915130136,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "44f16e8a-ea6f-4c5b-835a-24dee2ff1251"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Asia Best Bank, O=Contour Pte. Ltd., L=Singapore, C=SG"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "CC915073FAD6A8DEC1085F2551C2496D677281176269BB3FE0D2A0A5553FEF08(0)",
-  "_data": {
-    "member": "OU=Good Design, O=Contour Pte. Ltd., L=Singapore, C=SG",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 576038790,
-    "membershipMetadata": {
-      "role": "CORP",
-      "displayName": "Good Design",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Good Design",
-        "SWIFT_BEI": ""
-      },
-      "legalName": "Good Design",
-      "otherIdentifierType": "SWIFT_BEI",
-      "isBank": false
-    },
-    "issued": 1598600826244,
-    "modified": 1613528113217,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "d7e12a55-0976-4efc-9dbf-efc37b0f84da"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Good Design, O=Contour Pte. Ltd., L=Singapore, C=SG"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "1F348105542A270D47B6E100CA94439B82C81AEFF9E2C8B6CF0269CF1035F031(0)",
-  "_data": {
-    "member": "OU=Bayfront Bank, O=Contour Pte. Ltd., L=Singapore, C=SG",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 296240999,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "Bayfront Bank",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Bayfront Bank",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "Bayfront Bank",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1612529697746,
-    "modified": 1613455733609,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "3025c025-2893-4a5c-b517-2e55afd22a5b"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=Bayfront Bank, O=Contour Pte. Ltd., L=Singapore, C=SG"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
-{
-  "ref": "7400122CF88053C584358E7070A157A7BF3E62807F32B54ECD66EC0089744013(0)",
-  "_data": {
-    "member": "OU=CIB ITO-CORDA, O=Standard Chartered Bank Bangladesh Branch Limited, L=Dhaka, C=BD",
-    "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-    "clientId": 460503030,
-    "membershipMetadata": {
-      "role": "BANK",
-      "displayName": "Standard Chartered Bank Bangladesh Branch Limited",
-      "address": "",
-      "enableGuarantee": false,
-      "enableLC": true,
-      "aliases": {
-        "LEGAL_NAME": "Standard Chartered Bank Bangladesh Branch Limited",
-        "SWIFT_BIC": ""
-      },
-      "legalName": "Standard Chartered Bank Bangladesh Branch Limited",
-      "otherIdentifierType": "SWIFT_BIC",
-      "isBank": true
-    },
-    "issued": 1610088321237,
-    "modified": 1612168684396,
-    "status": "ACTIVE",
-    "linearId": {
-      "externalId": null,
-      "id": "f2592add-257d-4287-aa3a-793d325a4e77"
-    },
-    "participants": [
-      "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
-      "OU=CIB ITO-CORDA, O=Standard Chartered Bank Bangladesh Branch Limited, L=Dhaka, C=BD"
-    ],
-    "isActive": true,
-    "isRevoked": false,
-    "isPending": false
-  },
-  "_type": "MembershipState"
-}
+  {
+    "ref": "44EA5BFE92044F3E478231D0C0AAF93948D701E1251C3235E95388E6FECD217B(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=Genesis Fashions Ltd., L=Gazipur, C=BD",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 749298917,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Genesis Fashions Ltd.",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Genesis Fashions Ltd.",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Genesis Fashions Ltd.",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1630634188663,
+      "modified": 1630681308956,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "05507224-058d-4e2d-a543-523b3235e787"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=Genesis Fashions Ltd., L=Gazipur, C=BD"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "C71FB42A1B2C6CC8E060171351FD536C24592A6FE6E9378AD0154E37F20DABEF(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=MILITARY COMMERCIAL JOINT STOCK BANK, L=Ha Noi, C=VN",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 331079860,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "MILITARY COMMERCIAL JOINT STOCK BANK",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "MILITARY COMMERCIAL JOINT STOCK BANK",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "MILITARY COMMERCIAL JOINT STOCK BANK",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1630492719039,
+      "modified": 1630546374706,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "50598f68-22f9-4cb8-9fe6-a2fbfe4fb300"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=MILITARY COMMERCIAL JOINT STOCK BANK, L=Ha Noi, C=VN"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "7D81647D983361B2E718AA988C62DFD9B846F8D05D07B2DB81E010291ED93760(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=EMIRCOM LLC, L=Abu Dhabi, C=AE",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 364873783,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "EMIRCOM LLC",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "EMIRCOM LLC",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "EMIRCOM LLC",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1630415201427,
+      "modified": 1630460896177,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "11f668db-abc5-46f0-af7b-018dc2391e6c"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=EMIRCOM LLC, L=Abu Dhabi, C=AE"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "EEB338E980E532B11E752B72B3B48119F0967F3C8C0F55DAE4177497345DD324(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=ASIA PET (THAILAND) LIMITED, L=Bangkok, C=TH",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 34682411,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "ASIA PET (THAILAND) LIMITED",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "ASIA PET (THAILAND) LIMITED",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "ASIA PET (THAILAND) LIMITED",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1629970003085,
+      "modified": 1630028055558,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "454e0994-53d2-4ec6-aa85-08c36d83a513"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=ASIA PET (THAILAND) LIMITED, L=Bangkok, C=TH"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "09BEF7B0371C8D300EFBEB69A79C918CCA1EAF36F0DD1925AF74298A151DBD95(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=DBS Bank (China) Limited, L=Shanghai, C=CN",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 364992398,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "DBS Bank (China) Limited",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "DBS Bank (China) Limited",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "DBS Bank (China) Limited",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1629882993816,
+      "modified": 1629943251417,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "1bb4f179-5b61-4310-8741-8f743b008f74"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=DBS Bank (China) Limited, L=Shanghai, C=CN"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "CC2C4907FC7B943AB91BCE1F7D8A1694F0B4BFF53EDD02998E86A49290D9E2FC(0)",
+    "_data": {
+      "member": "OU=Global Trade and Receivables Finance Production, O=The Hongkong and Shanghai Banking Corporation Limited, L=Bangkok, C=TH",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 189127242,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "HSBC Thailand",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "The Hongkong and Shanghai Banking Corporation Limited",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "The Hongkong and Shanghai Banking Corporation Limited",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1629861433158,
+      "modified": 1629869972999,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "6a05ad6f-0de3-4e7e-95f3-2a8f59b3fa5e"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Global Trade and Receivables Finance Production, O=The Hongkong and Shanghai Banking Corporation Limited, L=Bangkok, C=TH"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "062E506080426C5F19AC2224F9676C2FDA2F94B4D131A359C43B83ECECBB7250(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=INDORAMA PETROCHEM LIMITED, L=Bangkok, C=TH",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 76611502,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "INDORAMA PETROCHEM LIMITED",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "INDORAMA PETROCHEM LIMITED",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "INDORAMA PETROCHEM LIMITED",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1629795505777,
+      "modified": 1629856157056,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "4ab56d67-06e8-4eab-913c-73c8a7a972a6"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=INDORAMA PETROCHEM LIMITED, L=Bangkok, C=TH"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "F2B0FC5BD781855C1B9C77854F628F03F550B52C618E7900BFC4ED677F3A0021(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=TPT PETROCHEMICALS PUBLIC COMPANY LIMITED, L=Bangkok, C=TH",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 419250959,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "TPT PETROCHEMICALS PUBLIC COMPANY LIMITED",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "TPT PETROCHEMICALS PUBLIC COMPANY LIMITED",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "TPT PETROCHEMICALS PUBLIC COMPANY LIMITED",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1629796211664,
+      "modified": 1629856129146,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "fd858daa-4296-49cc-b476-187cd89077dd"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=TPT PETROCHEMICALS PUBLIC COMPANY LIMITED, L=Bangkok, C=TH"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "073A787CC729EB7CF65962FDEB8F512B771D54FC4436843D7C721E8C691B8E02(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=Bajaj Auto Limited, L=Pune, C=IN",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 266516712,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Bajaj Auto Limited",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Bajaj Auto Limited",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Bajaj Auto Limited",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1629731433943,
+      "modified": 1629769692874,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "12d75939-5372-40c0-9f57-e3090b48865b"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=Bajaj Auto Limited, L=Pune, C=IN"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "FBC66E93AA31C99006FCA8FEB5D3C4D5908691E232B21E37237BEA069CEC43CD(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=Indorama Polyester Industries Public Company Limited, L=Bangkok, C=TH",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 299071760,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Indorama Polyester Industries Public Company Limited",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Indorama Polyester Industries Public Company Limited",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Indorama Polyester Industries Public Company Limited",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1629696514870,
+      "modified": 1629769659058,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "01498cb4-edcf-4a00-a810-03dce7d62fcb"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=Indorama Polyester Industries Public Company Limited, L=Bangkok, C=TH"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "33A10C17CB5E77341BDF09495B53700BE03271A4E0CB041562011CC4823E585E(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=RANGPUR METAL INDUSTRIES LIMITED, L=HOBIGONJ, C=BD",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 16001518,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "RANGPUR METAL INDUSTRIES LIMITED UNIT 3",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "RANGPUR METAL INDUSTRIES LIMITED UNIT 3",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "RANGPUR METAL INDUSTRIES LIMITED UNIT 3",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1628669246148,
+      "modified": 1629704983647,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "1da63bb8-6e9b-4ce6-9fbb-5c675cd6f8b0"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=RANGPUR METAL INDUSTRIES LIMITED, L=HOBIGONJ, C=BD"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "ECEFE390C64C877F0A91650225FB8BA44EFCE52BB6A957D9A551BCEBBD412AF6(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=Jidong Development (HK) International Limited, L=Kowloon Bay, C=HK",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 786604617,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Jidong Development (HK) International Limited",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Jidong Development (HK) International Limited",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Jidong Development (HK) International Limited",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1629362248045,
+      "modified": 1629424018830,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "7d11e365-9fcd-4db8-8f30-ac1d4afd444d"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=Jidong Development (HK) International Limited, L=Kowloon Bay, C=HK"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "FB6815B2241FE5CBFDBA7D1B75AEA292D0DE40DBA372E41A4FC131D8DC3AB3E4(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ASIA) LIMITED, L=Hong Kong, C=HK",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 187135132,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ASIA) LIMITED",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ASIA) LIMITED",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ASIA) LIMITED",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1629101932022,
+      "modified": 1629197164464,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "392e5f8f-5314-4d02-a859-ea7317b5a77d"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ASIA) LIMITED, L=Hong Kong, C=HK"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "38EF768AC12038D99B061BA3834292CDC8591B166B12E2817CF94188032F45BB(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=Kumba Singapore Pte Ltd, L=Singapore, C=SG",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 157362304,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Kumba Singapore Pte Ltd",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Kumba Singapore Pte Ltd",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Kumba Singapore Pte Ltd",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1629103748689,
+      "modified": 1629196630323,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "3e8c4e36-d7ca-4f06-b857-a82862909987"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=Kumba Singapore Pte Ltd, L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "7AFCF3975A92B335D389E73939640C2947A4171C9B90DA44D0AEEDC744390FDF(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=Eldon Development Limited, L=Wan Chai, C=HK",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 863576436,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Eldon Development Limited",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Eldon Development Limited",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Eldon Development Limited",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1629103014137,
+      "modified": 1629196492059,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "2b4ac1dc-c70a-4b74-9b11-742d9816c555"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=Eldon Development Limited, L=Wan Chai, C=HK"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "5A614B02FCE8ABC84879070D8A18D3AA989B703A166403B00A6342E67ADF903F(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=PT. CHANDRA ASRI PETROCHEMICAL TBK, L=Jakarta, C=ID",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 627200948,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "PT. CHANDRA ASRI PETROCHEMICAL TBK",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "PT. CHANDRA ASRI PETROCHEMICAL TBK",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "PT. CHANDRA ASRI PETROCHEMICAL TBK",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1628669262783,
+      "modified": 1628676633020,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "35f1807b-c000-489c-9b80-f4626635e715"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=PT. CHANDRA ASRI PETROCHEMICAL TBK, L=Jakarta, C=ID"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "3A2CD8EF36F499C122CE4071EED684B1C21E6879F411F61FB9CB4561863C7491(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=HBIS GROUP SINGAPORE PTE. LTD., L=Singapore, C=SG",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 755701683,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "HBIS GROUP SINGAPORE PTE. LTD.",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "HBIS GROUP SINGAPORE PTE. LTD.",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "HBIS GROUP SINGAPORE PTE. LTD.",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1628588243753,
+      "modified": 1628590573513,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "42931132-8759-4a0f-8ccc-3ec21c022e89"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=HBIS GROUP SINGAPORE PTE. LTD., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "E15EA1B99EE5357082C0CB607021ED18775203CE8940AD52943680AE33CCAAB2(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=WIN FAITH TRADING LIMITED, L=Hong Kong, C=HK",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 180770833,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "WIN FAITH TRADING LIMITED",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "WIN FAITH TRADING LIMITED",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "WIN FAITH TRADING LIMITED",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1628572077321,
+      "modified": 1628590519079,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "303c55f4-1302-41ae-adba-74ee31269ba2"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=WIN FAITH TRADING LIMITED, L=Hong Kong, C=HK"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "0BA82725EF81772ED8FB99FDF744F49EFBB14341942B515D665540196CCE52D4(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=THAI ACRYLIC FIBRE COMPANY LIMITED, L=Bangkok, C=TH",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 214986782,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "THAI ACRYLIC FIBRE COMPANY LIMITED",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "THAI ACRYLIC FIBRE COMPANY LIMITED",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "THAI ACRYLIC FIBRE COMPANY LIMITED",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1628074841643,
+      "modified": 1628181453413,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "83b3fa57-b42c-43a8-8d51-1465f8248056"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=THAI ACRYLIC FIBRE COMPANY LIMITED, L=Bangkok, C=TH"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "5658E21E1A16E770EB19562D0ED504019998F08E0C32876D92D0E12EDE15BBC8(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=Anglo American Marketing Limited, L=London, C=GB",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 698169473,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Anglo American Marketing Limited",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Anglo American Marketing Limited",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Anglo American Marketing Limited",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1628160617408,
+      "modified": 1628171964018,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "321aa7e6-a4cf-483b-873a-745d0712bef1"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=Anglo American Marketing Limited, L=London, C=GB"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "4F360274D27C99CBCA6C3EB987813B22E50747C5FAD82623D6DB7E520B6C2B14(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=Anglo American Marketing Limited Singapore Branch, L=Singapore, C=SG",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 839391795,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Anglo American Marketing Limited Singapore Branch",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Anglo American Marketing Limited Singapore Branch",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Anglo American Marketing Limited Singapore Branch",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1628075845127,
+      "modified": 1628082097323,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "7e73db4e-8f90-4c12-8501-8401307f31f1"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=Anglo American Marketing Limited Singapore Branch, L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "551C27F7A5FB73A0AB797E8FE2E451C465596E10184CE4894EF90D9A17930995(0)",
+    "_data": {
+      "member": "OU=GTRF Production, O=HSBC Bank Middle East LTD, L=Dubai, C=AE",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 479280980,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "HSBC UAE",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "HSBC Bank Middle East LTD",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "HSBC Bank Middle East LTD",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1627653828361,
+      "modified": 1627655197257,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "3d0b22cb-4b36-4faa-848c-8b1ab88edc45"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=GTRF Production, O=HSBC Bank Middle East LTD, L=Dubai, C=AE"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "1EFCEB03C362CE13AE51D64FB5CCC485268FF9908E89DE72B0B1CDFD2F8D7CD0(0)",
+    "_data": {
+      "member": "OU=GTRF Production, O=HSBC Bank Malaysia Berhad, L=Kuala Lumpur, C=MY",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 509447106,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "HSBC Malaysia",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "HSBC Bank Malaysia Berhad",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "HSBC Bank Malaysia Berhad",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1627652286012,
+      "modified": 1627655107804,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "5703e4d4-d61b-4fc9-9a1c-7b512f5ad90d"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=GTRF Production, O=HSBC Bank Malaysia Berhad, L=Kuala Lumpur, C=MY"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "043E0E4D64BAA3490C4CCFAF7EE79878500E89FD74D1C5E38B838969B3DC786D(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=LONGTEX RUBBER INDUSTRY CO. LTD., L=Samut Prakan, C=TH",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 160967364,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "LONGTEX RUBBER INDUSTRY CO. LTD.",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "LONGTEX RUBBER INDUSTRY CO. LTD.",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "LONGTEX RUBBER INDUSTRY CO. LTD.",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1627479502169,
+      "modified": 1627523967091,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "c5733762-ec68-414c-9756-b7b3623892a1"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=LONGTEX RUBBER INDUSTRY CO. LTD., L=Samut Prakan, C=TH"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "220160419F80D7A1B54B72B3134AD4FDB93248BDCF483DD323C75F23D204C4E5(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=SINGAPORE (COGENERATION) STEEL PTE. LTD., L=Singapore, C=SG",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 672528621,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "SINGAPORE (COGENERATION) STEEL PTE. LTD.",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "SINGAPORE (COGENERATION) STEEL PTE. LTD.",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "SINGAPORE (COGENERATION) STEEL PTE. LTD.",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1627456700515,
+      "modified": 1627464613220,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "a2df2016-af28-4563-ab8a-033e0895f477"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=SINGAPORE (COGENERATION) STEEL PTE. LTD., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "9FBD75CF3DF5D419D50DE64DB74C3E9CA72F3BD10FF8AB5BCFD9211134F2822C(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=SUMITOMO MITSUI BANKING CORPORATION SINGAPORE BRANCH, L=Singapore, C=SG",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 697593286,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "SUMITOMO MITSUI BANKING CORPORATION SINGAPORE BRANCH",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "SUMITOMO MITSUI BANKING CORPORATION SINGAPORE BRANCH",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "SUMITOMO MITSUI BANKING CORPORATION SINGAPORE BRANCH",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1627457311099,
+      "modified": 1627464525208,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "0f71cd6d-bba6-4516-8d8a-729c2c842a73"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=SUMITOMO MITSUI BANKING CORPORATION SINGAPORE BRANCH, L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "8CEDAD9E7CDEBD71E2FE5EE33FA6694352E5DD757349B806FA8CE188D040FC3A(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=MACWORLD INDUSTRIES LIMITED, L=LABUAN, C=MY",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 242720749,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "MACWORLD INDUSTRIES LIMITED",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "MACWORLD INDUSTRIES LIMITED",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "MACWORLD INDUSTRIES LIMITED",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1627364308282,
+      "modified": 1627379730543,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "3dda018d-450f-46dc-b343-21e83cd05088"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=MACWORLD INDUSTRIES LIMITED, L=LABUAN, C=MY"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "960964600630FA91A59801133FD8EFF521905C9E7EB103BC821A9AD62F484706(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=Aptec Distribution FZ-LLC, L=Dubai, C=AE",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 408372966,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Aptec Distribution FZ-LLC",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Aptec Distribution FZ-LLC",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Aptec Distribution FZ-LLC",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1627364864931,
+      "modified": 1627379678077,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "565d3c09-dab8-42ea-b793-63857ea50e67"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=Aptec Distribution FZ-LLC, L=Dubai, C=AE"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "7F3881C595DAFD16C663D072500CD65FB3A1EE1CC5BA0854C260BDC018C673E0(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=STAVIAN CHEMICAL JOINT STOCK COMPANY, L=Hung Yen, C=VN",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 260365413,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "STAVIAN CHEMICAL JOINT STOCK COMPANY",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "STAVIAN CHEMICAL JOINT STOCK COMPANY",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "STAVIAN CHEMICAL JOINT STOCK COMPANY",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1627300083320,
+      "modified": 1627377585722,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "6659bfee-cf2d-4299-b7ce-8e0b5031bab3"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=STAVIAN CHEMICAL JOINT STOCK COMPANY, L=Hung Yen, C=VN"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "534692F7C8702CCFD3B5DCB4C178527C765280900B6CCFC80BAA887C7614583B(0)",
+    "_data": {
+      "member": "OU=Trade Finance Prod, O=Vale International SA, L=St-Prex, C=CH",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 176862724,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Vale International S.A.",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Vale International S.A.",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Vale International S.A.",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1627215480000,
+      "modified": 1627215646348,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "9708367e-12b0-4d6f-a1b2-dfbfc40622b2"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance Prod, O=Vale International SA, L=St-Prex, C=CH"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "3D2A631DBEBC0EDC8E8C24FB645B92C52A133F0193A5EDECBF0DCDCD1BFF616F(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=Thailand Anthracite Company Limited, L=Bangkok, C=TH",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 140106384,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Thailand Anthracite Company Limited",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Thailand Anthracite Company Limited",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Thailand Anthracite Company Limited",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1626872866456,
+      "modified": 1626920275277,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "cd002c71-3c52-4852-81cc-90ffe59b8d6b"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=Thailand Anthracite Company Limited, L=Bangkok, C=TH"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "BFB2CCF0E9B9062438F235EFAAA0D7323A4832CCF8A6BF9F08715922C1F1A97F(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=Polyplex (Thailand) Public Company Limited, L=Bangkok, C=TH",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 510564880,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Polyplex (Thailand) Public Company Limited",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Polyplex (Thailand) Public Company Limited",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Polyplex (Thailand) Public Company Limited",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1626869309562,
+      "modified": 1626920237660,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "54bb4e09-27e1-4336-a6ea-ac50309341ff"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=Polyplex (Thailand) Public Company Limited, L=Bangkok, C=TH"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "2FF4301FE2B3DBC4D3AFE899ADA276B69225403D124EAAB9AA568689A57661F4(0)",
+    "_data": {
+      "member": "OU=CIB ITO-CORDA-SCB IN, O=STANDARD CHARTERED GLOBAL BUSINESS SERVICES PRIVATE LIMITED, L=CHENNAI, C=IN",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 154952850,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Standard Chartered Bank – Node 1",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "STANDARD CHARTERED GLOBAL BUSINESS SERVICES PRIVATE LIMITED",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "STANDARD CHARTERED GLOBAL BUSINESS SERVICES PRIVATE LIMITED",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1626572967018,
+      "modified": 1626579222162,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "34e56e2e-6add-4b6d-ab3a-6ac160a20bc4"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=CIB ITO-CORDA-SCB IN, O=STANDARD CHARTERED GLOBAL BUSINESS SERVICES PRIVATE LIMITED, L=CHENNAI, C=IN"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "393326FE971B0F878563CD443B1038ABA33B5B6132F55F993AEEE926495A5985(0)",
+    "_data": {
+      "member": "OU=GTRF Production, O=HSBC Bank (China) Company Limited, L=Shanghai, C=CN",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 883662669,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "HSBC China",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "HSBC Bank (China) Company Limited",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "HSBC Bank (China) Company Limited",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1625739605836,
+      "modified": 1625798161836,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "0b3ef04d-e7b7-4c85-b104-5d1feb13e5d7"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=GTRF Production, O=HSBC Bank (China) Company Limited, L=Shanghai, C=CN"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "4C71797BE172EB32F1D994399E9C06999060A10BA9E3DE84FBC9CED529439CE7(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=DBS BANK (HONG KONG) LIMITED, L=Central District, C=HK",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 112554448,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "DBS BANK (HONG KONG) LIMITED",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "DBS BANK (HONG KONG) LIMITED",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "DBS BANK (HONG KONG) LIMITED",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1625744465995,
+      "modified": 1625769611103,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "7d11b2ad-40e4-4090-95ca-112147d0dff6"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=DBS BANK (HONG KONG) LIMITED, L=Central District, C=HK"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "1441B951426D575A9965365B97087B4177B83C3739C765079B9C869A6C2B7988(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=ArcelorMittal Nippon Steel India Limited, L=Surat, C=IN",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 53489564,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "ArcelorMittal Nippon Steel India Limited",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "ArcelorMittal Nippon Steel India Limited",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "ArcelorMittal Nippon Steel India Limited",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1625486241475,
+      "modified": 1625536229047,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "95db02fd-fa17-4c6c-910e-8dc482ade6ec"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=ArcelorMittal Nippon Steel India Limited, L=Surat, C=IN"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "70F58A87C8C22293EC6B5BACB3793817D78B9185A925F56776690845B2D8D4E7(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=CHEMTECH CO. LTD, L=Binh Duong, C=VN",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 427638024,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "CHEMTECH CO. LTD",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "CHEMTECH CO. LTD",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "CHEMTECH CO. LTD",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1625486307727,
+      "modified": 1625536187783,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "299b2e80-a350-4af1-9612-9a83afba7e32"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=CHEMTECH CO. LTD, L=Binh Duong, C=VN"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "07D2F6B27931736989195426810FDE9D7869EFD7989FE59E78378FEFA47B6A66(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=AN PHAT BIOPLASTICS JOINT STOCK COMPANY, L=Hai Duong, C=VN",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 160466141,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "AN PHAT BIOPLASTICS JOINT STOCK COMPANY",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "AN PHAT BIOPLASTICS JOINT STOCK COMPANY",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "AN PHAT BIOPLASTICS JOINT STOCK COMPANY",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1625226611029,
+      "modified": 1625235381338,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "9b2fe922-942c-42d5-957a-129d2b29058f"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=AN PHAT BIOPLASTICS JOINT STOCK COMPANY, L=Hai Duong, C=VN"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "9F656DDC62AC6D93CB02BD2BC6DBDEBDA752B39BDA4D71419D20A7196DFD3CFF(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=Pointer Investment (Hong Kong) Limited, L=Hong Kong, C=HK",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 27155922,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Pointer Investment  - Hong Kong",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Pointer Investment (Hong Kong) Limited",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Pointer Investment (Hong Kong) Limited",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1616570397199,
+      "modified": 1625227559130,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "0a3b5b32-8a13-4147-92a6-a9fd5f7703e8"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=Pointer Investment (Hong Kong) Limited, L=Hong Kong, C=HK"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "7D626FEC3196DA377B9FFBF3343A73CADC212ADD60B052092496ECD55D72D84B(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=PALM-OLEO SDN BHD, L=Petaling Jaya, C=MY",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 729539857,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "PALM-OLEO SDN BHD",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "PALM-OLEO SDN BHD",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "PALM-OLEO SDN BHD",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1625226519213,
+      "modified": 1625226819581,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "a02df285-5af1-4aa5-82b2-18b44fdc71c2"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=PALM-OLEO SDN BHD, L=Petaling Jaya, C=MY"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "2EE348102834E4D7D5782928F232C17AA19FAA04C0F3BA60990C941A55AB8FF8(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=BRITISH AMERICAN TOBACCO BANGLADESH CO. LTD., L=Dhaka, C=BD",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 367210856,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "BRITISH AMERICAN TOBACCO BANGLADESH CO. LTD.",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "BRITISH AMERICAN TOBACCO BANGLADESH CO. LTD.",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "BRITISH AMERICAN TOBACCO BANGLADESH CO. LTD.",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1625062847893,
+      "modified": 1625199056401,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "a9db3e7e-fe95-423d-906b-1d598e7d4074"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=BRITISH AMERICAN TOBACCO BANGLADESH CO. LTD., L=Dhaka, C=BD"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "56F2BBC390EAE9EB51998D38C43996F6471FAFAC12BDE4AD3B0C5FCB5A0E71D0(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=PT ARISTA LATINDO, L=Jakarta, C=ID",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 892739391,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "PT ARISTA LATINDO",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "PT ARISTA LATINDO",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "PT ARISTA LATINDO",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1624968697406,
+      "modified": 1625016611732,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "cc698845-5ee5-43af-8fe0-bbdfcda8af3e"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=PT ARISTA LATINDO, L=Jakarta, C=ID"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "E3480E79F1DA562DAA9D3F5ACBE47ABAFDA2030C2F01FD426F6C4DA5BE5DC2E4(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=SCG Performance Chemicals Company Limited, L=Bangkok, C=TH",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 600389668,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "SCG Performance Chemicals Company Limited",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "SCG Performance Chemicals Company Limited",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "SCG Performance Chemicals Company Limited",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1624532943689,
+      "modified": 1624533040567,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "1f4cadeb-771a-4e52-ae83-aa5c54c359d3"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=SCG Performance Chemicals Company Limited, L=Bangkok, C=TH"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "BDE37D5C6A7C5808F677DA85586594B6235941B3C120CAF752A4DEEA392E151E(0)",
+    "_data": {
+      "member": "OU=GTRF Production, O=Hang Seng Bank Limited, L=Central District, C=HK",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 522497260,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Hang Seng Bank Hong Kong",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Hang Seng Bank Limited",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Hang Seng Bank Limited",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1617871917887,
+      "modified": 1624524442335,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "7532228b-534d-4836-a2f2-62d3b696193a"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=GTRF Production, O=Hang Seng Bank Limited, L=Central District, C=HK"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "E8B2E9883EED93DD5501D0599A3FA33A6071367701F6519537DE8D4289F98F4D(0)",
+    "_data": {
+      "member": "OU=Global Trade and Receivables Finance Production, O=The Hongkong and Shanghai Banking Corporation Limited, L=Dhaka, C=BD",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 852857632,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "HSBC Bangladesh",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "The Hongkong and Shanghai Banking Corporation Limited",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "The Hongkong and Shanghai Banking Corporation Limited",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1614167472333,
+      "modified": 1624524416500,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "9f0f8474-d337-477b-93ea-50328159699c"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Global Trade and Receivables Finance Production, O=The Hongkong and Shanghai Banking Corporation Limited, L=Dhaka, C=BD"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "8964BC429AED82963D367237E6B42927DA1FDA1C97B7E36218A78E43EBD61446(0)",
+    "_data": {
+      "member": "OU=Global Trade and Receivables Finance Production, O=The Hongkong and Shanghai Banking Corporation Limited, L=Mumbai, C=IN",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 878938163,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "HSBC India",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "The Hongkong and Shanghai Banking Corporation Limited",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "The Hongkong and Shanghai Banking Corporation Limited",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1611756598482,
+      "modified": 1624524376915,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "1d5fe1c4-8dae-4d10-a936-f8ef451cb954"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Global Trade and Receivables Finance Production, O=The Hongkong and Shanghai Banking Corporation Limited, L=Mumbai, C=IN"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "3C57A9941CD52AE82361A332B506803943EB18B4881E4B78E9549D66CC34B8C5(0)",
+    "_data": {
+      "member": "OU=Global Trade and Receivables Finance Production, O=The Hongkong and Shanghai Banking Corporation Limited, L=SINGAPORE, C=SG",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 330856180,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "HSBC Singapore",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "The Hongkong and Shanghai Banking Corporation Limited",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "The Hongkong and Shanghai Banking Corporation Limited",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1613020759992,
+      "modified": 1624524311399,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "5f74a571-0547-48e8-9b57-d7f0309f62dd"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Global Trade and Receivables Finance Production, O=The Hongkong and Shanghai Banking Corporation Limited, L=SINGAPORE, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "BE3525B44EFC7070061B13F5D402CD0016A3F3C3809F58064FC57732D74910E6(0)",
+    "_data": {
+      "member": "OU=GTRF Production, O=The Hongkong and Shanghai Banking Corporation Limited, L=Central District, C=HK",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 711592122,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "HSBC Hong Kong",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "The Hongkong and Shanghai Banking Corporation Limited",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "The Hongkong and Shanghai Banking Corporation Limited",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1611887265363,
+      "modified": 1624519377825,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "b67c27d4-55c6-4109-9a51-4d8b3c21c4a2"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=GTRF Production, O=The Hongkong and Shanghai Banking Corporation Limited, L=Central District, C=HK"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "CE63CCA5DB6005AFF1C92746A5EEDA64C322A7FD4683E4F384F30BC849E6FD2A(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=SCG Plastics Company Limited, L=Bangkok, C=TH",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 634153867,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "SCG Plastics Company Limited",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "SCG Plastics Company Limited",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "SCG Plastics Company Limited",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1624022365133,
+      "modified": 1624239909833,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "b40d8299-1509-4dcf-be85-262d57fcc01c"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=SCG Plastics Company Limited, L=Bangkok, C=TH"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "B7F6C9DE67AF62468E09D84141441F26C69A8936E1F7FE20D71D8309682CB599(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=Metal One (Thailand) Company Limited, L=Bangkok, C=TH",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 569400533,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Metal One (Thailand) Company Limited",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Metal One (Thailand) Company Limited",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Metal One (Thailand) Company Limited",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1623866952252,
+      "modified": 1623892539840,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "c94cf7d7-36c9-4b35-bcc9-e492223bd602"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=Metal One (Thailand) Company Limited, L=Bangkok, C=TH"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "077DDADF115E46E1408B94F6EBC7627AB1C19ECAA2539FC408D1EC9C1D226CFF(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=CEMCOA LIMITED, L=Hong Kong, C=HK",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 92015259,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "CEMCOA LIMITED",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "CEMCOA LIMITED",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "CEMCOA LIMITED",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1623667165420,
+      "modified": 1623718831611,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "5f756696-22f9-4be6-95f7-eac38c1edcd9"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=CEMCOA LIMITED, L=Hong Kong, C=HK"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "9F4A1F05BF65DE88729C6B4864B81A46C8720C18F945AB3EAC7EA234C713D5A1(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=HONG KONG JINTENG DEVELOPMENT LIMITED, L=Hong Kong, C=HK",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 58791134,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "HONG KONG JINTENG DEVELOPMENT LIMITED",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "HONG KONG JINTENG DEVELOPMENT LIMITED",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "HONG KONG JINTENG DEVELOPMENT LIMITED",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1623415182011,
+      "modified": 1623636517333,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "3583654f-e7ff-4fc7-b7b0-d46bbe0c5f78"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=HONG KONG JINTENG DEVELOPMENT LIMITED, L=Hong Kong, C=HK"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "183483BE08E2ECABE9F4646951BC79C2B479B75A84A173333B941667A3E029BD(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=Chandra Asri Trading Company Pte Ltd, L=Singapore, C=SG",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 152502340,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Chandra Asri Trading Company Pte Ltd",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Chandra Asri Trading Company Pte Ltd",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Chandra Asri Trading Company Pte Ltd",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1623052832056,
+      "modified": 1623054749742,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "aa20dc5d-1263-48e6-8626-17fa10516e14"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=Chandra Asri Trading Company Pte Ltd, L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "065C0706D6BAC1FFCC7A1C17214E49FA7A1389FE7F952AAF19EE4D1C5E01A7EE(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=Singapore Jinteng International Pte Ltd, L=Singapore, C=SG",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 410876024,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Singapore Jinteng International Pte Ltd",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Singapore Jinteng International Pte Ltd",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Singapore Jinteng International Pte Ltd",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1622731808982,
+      "modified": 1623034903498,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "600190bd-f2c9-46f8-9c4d-15d9649b63b4"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=Singapore Jinteng International Pte Ltd, L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "5A9A4831BC5DC4293C88EB63F3EAEE5D252C927944145B2D3FEB35814756B5B2(0)",
+    "_data": {
+      "member": "OU=CIB ITO-CORDA, O=Standard Chartered Bank (Singapore) Limited, L=Singapore, C=SG",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 197542693,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Standard Chartered Bank - Node 3",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Standard Chartered Bank (Singapore) Limited",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Standard Chartered Bank (Singapore) Limited",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1610086487212,
+      "modified": 1620613025462,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "b9365b37-4689-4205-bee4-49e2742a3b83"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=CIB ITO-CORDA, O=Standard Chartered Bank (Singapore) Limited, L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "DFB76D88CAA45801132834F0340DC4E3531DF9D765B83194EE19727446D74F5E(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=TOPTIP HOLDING PTE. LTD, L=Singapore, C=SG",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 485648362,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "TOPTIP HOLDING PTE. LTD",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "TOPTIP HOLDING PTE. LTD",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "TOPTIP HOLDING PTE. LTD",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1620065143131,
+      "modified": 1620092195829,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "55502b70-9f39-4ff4-b4c7-4e16453a77c7"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=TOPTIP HOLDING PTE. LTD, L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "7378460F8DA6E9BCE8E045E2ECD3B0E6511F36CA3C14AB07092410A63D76115B(0)",
+    "_data": {
+      "member": "OU=CTR PRD AGENT 01, O=BNP PARIBAS, L=PARIS, C=FR",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 82710369,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "BNP PARIBAS",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "BNP PARIBAS",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "BNP PARIBAS",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1618930622394,
+      "modified": 1619602717781,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "4202aeaf-56f1-4973-9598-b7c532380c00"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=CTR PRD AGENT 01, O=BNP PARIBAS, L=PARIS, C=FR"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "4A7E0C660AC1DDC5F0752A6D60C09437FA80464D3DBF765A2FE95001A5042458(0)",
+    "_data": {
+      "member": "OU=Comprehensive Fabric, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 287885091,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Comprehensive Fabric Corp",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Comprehensive Fabric",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Comprehensive Fabric",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1598600352334,
+      "modified": 1619167159879,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "a54ed4f7-c5f4-4577-8a00-fe43a9970db1"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Comprehensive Fabric, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "EE4B5C6106EF6EE83B6B559FAD285B6022D07D1090CD72E9AFC3D166FD51EC01(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=HBIS Group Hong Kong Co. Limited, L=Hong Kong, C=HK",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 928801753,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "HBIS Group Hong Kong Co. Limited",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "HBIS Group Hong Kong Co. Limited",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "HBIS Group Hong Kong Co. Limited",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1618908797718,
+      "modified": 1618910967943,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "81f42f08-692a-40ee-9603-672444c33ee8"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=HBIS Group Hong Kong Co. Limited, L=Hong Kong, C=HK"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "485009C108A8A0AEADD12B8B428FE546235AD2B869DC44F03C381BB99D1289CD(0)",
+    "_data": {
+      "member": "OU=Node1, O=Skandinaviska Enskilda Banken AB (publ), L=Stockholm, C=SE",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 11567442,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "SEB",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Skandinaviska Enskilda Banken AB",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Skandinaviska Enskilda Banken AB",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1604486256448,
+      "modified": 1618390656926,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "c7c6f7d8-0262-4f15-96b7-d596ed7571ec"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Node1, O=Skandinaviska Enskilda Banken AB (publ), L=Stockholm, C=SE"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "2834734130472991D139AC40DC8D9A147FE70DE80B10B613F82270974D9960A7(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=HANGZHOU IRON & STEEL (H.K.) COMPANY LIMITED, L=Hong Kong, C=HK",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 578096936,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "HANGZHOU IRON & STEEL (H.K.) COMPANY LIMITED",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "HANGZHOU IRON & STEEL (H.K.) COMPANY LIMITED",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "HANGZHOU IRON & STEEL (H.K.) COMPANY LIMITED",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1617961331058,
+      "modified": 1617962239151,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "6b5cd931-267a-4060-9edc-e2b5594bad28"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=HANGZHOU IRON & STEEL (H.K.) COMPANY LIMITED, L=Hong Kong, C=HK"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "E17EBFB595F08D25F07F3DB85E5F4E0B50D9E7E495C8A15274CEDF05C000B684(0)",
+    "_data": {
+      "member": "OU=Mid Atlantic Bank, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 297362855,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Mid Atlantic Bank Ltd.",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Mid Atlantic Bank Ltd.",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Mid Atlantic Bank Ltd.",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1598601033637,
+      "modified": 1617248956234,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "917d68cb-7777-47a7-bfcb-aea228ce1851"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Mid Atlantic Bank, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "78D54277955376EA75C5203BBC75AC0E02CAA28E873D024A444477A5A31F9EB7(0)",
+    "_data": {
+      "member": "OU=Permata, O=PT BANK PERMATA TBK, L=Jakarta, C=ID",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 769225837,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "PT BANK PERMATA TBK",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "PT BANK PERMATA TBK",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "PT BANK PERMATA TBK",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1617091301869,
+      "modified": 1617092809492,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "891118cc-d2d7-4608-9577-4b17ead7d885"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Permata, O=PT BANK PERMATA TBK, L=Jakarta, C=ID"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "714B07CB681CED29DF3CB8CD0143D955FD5FCD2DF4AEADCD4E28E45E2AAE49CA(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=DBS BANK LTD., L=Singapore, C=SG",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 722481030,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "DBS BANK LTD.",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "DBS BANK LTD.",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "DBS BANK LTD.",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1617018805293,
+      "modified": 1617019083452,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "794505b5-e1d0-49e5-80ae-3de87b171f2c"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=DBS BANK LTD., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "3A7D03F3CC38BBA6CDC8934945F49D4C370ECFE0D8CB8187565671A55841AB51(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=Bangkok Bank Public Company Limited, L=Bangkok, C=TH",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 725177225,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Bangkok Bank - Thailand",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Bangkok Bank - Thailand",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Bangkok Bank - Thailand",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1616570348759,
+      "modified": 1616573775158,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "a5aa337f-78f5-4b8b-95c6-6ed496fb728b"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=Bangkok Bank Public Company Limited, L=Bangkok, C=TH"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "163F125DD52493875FD7CF002C32E5E71CB82BC3BACDD0D7560387A033E786D6(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=ROBE RIVER ORE SALES PTY. LTD., L=PERTH, C=AU",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 84736786,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "ROBE RIVER ORE SALES PTY. LTD.",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "ROBE RIVER ORE SALES PTY. LTD.",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "ROBE RIVER ORE SALES PTY. LTD.",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1616569216616,
+      "modified": 1616573719992,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "ddf31920-f005-46fe-bea1-3cf76d5887b5"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=ROBE RIVER ORE SALES PTY. LTD., L=PERTH, C=AU"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "2D27700C00761E64FCA6F595AC52676FCA6626E35C69DCF5C7A6716730886801(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=Bangkok Bank Public Company Limited, L=Ho Chi Minh City, C=VN",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 269950954,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Bangkok Bank - Vietnam",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Bangkok Bank - Vietnam",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Bangkok Bank - Vietnam",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1616490508179,
+      "modified": 1616557111774,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "4ed8a73b-9792-4425-bd4a-58bf8e9df147"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=Bangkok Bank Public Company Limited, L=Ho Chi Minh City, C=VN"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "9B47B2BBDB5F33CA5A508D0F5AF2A1FD78293AD9FD424D5A06FEC8179683C660(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=HOPE DOWNS MARKETING COMPANY PTY LTD, L=PERTH, C=AU",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 83641626,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "HOPE DOWNS MARKETING COMPANY PTY LTD",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "HOPE DOWNS MARKETING COMPANY PTY LTD",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "HOPE DOWNS MARKETING COMPANY PTY LTD",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1616490674249,
+      "modified": 1616554511856,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "c8dbfbbe-3c53-40c1-a206-629d814b4745"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=HOPE DOWNS MARKETING COMPANY PTY LTD, L=PERTH, C=AU"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "EF069B6423F544A64DEDB8D3DB712E98AE1474FD58E9F41286C06BEC923F3743(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=Rio Tinto Commercial Pte Ltd, L=Singapore, C=SG",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 983807791,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Rio Tinto Commercial Pte Ltd",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Rio Tinto Commercial Pte Ltd",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Rio Tinto Commercial Pte Ltd",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1615542251976,
+      "modified": 1615553480400,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "fe3dfa9c-1aad-45da-8ddb-e800dbe9bc1d"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=Rio Tinto Commercial Pte Ltd, L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "1B93BA89C99B2F7AC105AC71CFEF2D31B2184DF6996492B8466DEECF4A7CDA39(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=Industrial and Commercial Bank of China Limited Xiamen Branch Business Office, L=Xiamen, C=CN",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 195191574,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA,XIAMEN CITY BRANCH",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA,XIAMEN CITY BRANCH",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA,XIAMEN CITY BRANCH",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1615482892582,
+      "modified": 1615513657489,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "3c0181bf-c39e-4d15-868c-6d9d2cf26157"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=Industrial and Commercial Bank of China Limited Xiamen Branch Business Office, L=Xiamen, C=CN"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "DD7C832095E9E83AC06F906301D43BA7B7D1D24B07F42D820C3CA399E81DA70B(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=Xiamen ITG Group Corp. Ltd, L=Xiamen, C=CN",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 381818972,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Xiamen ITG Group Corp., Ltd",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Xiamen ITG Group Corp., Ltd",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Xiamen ITG Group Corp., Ltd",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1615482960930,
+      "modified": 1615513569391,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "85ad1136-7725-454f-9d9e-3df7a4bf8adf"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=Xiamen ITG Group Corp. Ltd, L=Xiamen, C=CN"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "D519F93F47DB415BC8C015EEEEB1CF8C47BBFEDDD01CB4298AAA7A4AD6185D94(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=Bank of China (Hong Kong) Limited, L=Hong Kong, C=HK",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 999225753,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Bank of China (Hong Kong) Limited",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Bank of China (Hong Kong) Limited",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Bank of China (Hong Kong) Limited",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1614915184932,
+      "modified": 1614915241867,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "85aad90d-0bce-4b9c-b77a-9ee963de50a3"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=Bank of China (Hong Kong) Limited, L=Hong Kong, C=HK"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "9537793BFFC7FF2128CF2233DC45A965B177C3D33220FCA5568D2398DB3CD46A(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=TATA STEEL LIMITED, L=Mumbai, C=IN",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 404564522,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "TATA STEEL LIMITED",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "TATA STEEL LIMITED",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "TATA STEEL LIMITED",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1614160936191,
+      "modified": 1614160977375,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "99d00d8a-3a72-4e26-a13b-3876dcf033dd"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=TATA STEEL LIMITED, L=Mumbai, C=IN"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "4D11BA012D5F6F2729D037CACF6608D125002CDB1958789454A6E5200B56AC79(0)",
+    "_data": {
+      "member": "OU=Trade Finance, O=Universal Tube and Plastic Industries Ltd., L=Dubai, C=AE",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 668283612,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Universal Tube and Plastic Industries Ltd.",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Universal Tube and Plastic Industries Ltd.",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Universal Tube and Plastic Industries Ltd.",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1614154911307,
+      "modified": 1614154976785,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "284d9f83-86ce-4fda-8478-508e244181b6"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Trade Finance, O=Universal Tube and Plastic Industries Ltd., L=Dubai, C=AE"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "47DCA9C49C98AE54B5F8B3A9000B266648D1EFA6D5A1132509D3BAB48E534532(0)",
+    "_data": {
+      "member": "OU=Dictionary Bank, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 43013727,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Dictionary Bank",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Dictionary Bank",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Dictionary Bank",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1613992875011,
+      "modified": 1614006528669,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "b0d81a7f-019f-4293-a379-460548bd5d9d"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Dictionary Bank, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "1F6659B1C7057D375BACE0B86A30D64DF06C3EC048D6B0131A500E9BBE9E3852(0)",
+    "_data": {
+      "member": "OU=Delta One Corp, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 116301400,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Delta One Corp",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Delta One Corp",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Delta One Corp",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1613992922985,
+      "modified": 1614006469646,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "1cb1a6ae-10bd-476c-b564-1c69951a82fd"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Delta One Corp, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "5817FD6FDF2AF75A9D7ADC2E01BC2861516C9A105B13737474D86E1D9D98D6A3(0)",
+    "_data": {
+      "member": "OU=Century Bank, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 123744915,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Century Bank",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Century Bank",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Century Bank",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1613992851204,
+      "modified": 1614006405867,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "b55e667b-ccf8-44a7-ab9e-97b425f8fc0d"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Century Bank, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "4D6855E93736978CCA67665ACF941BFAFC2D455912AD6DCEE3D1535078924A51(0)",
+    "_data": {
+      "member": "OU=Comprehensive Corp, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 793152576,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Comprehensive Corp",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Comprehensive Corp",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Comprehensive Corp",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1613992854591,
+      "modified": 1614006375358,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "8826fedd-5de5-4a6b-b780-01a1e021034e"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Comprehensive Corp, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "198D4BA1DA1387CD0AEE56EB20154E40DA32CD939A9BE2BF533AB85893984EA9(0)",
+    "_data": {
+      "member": "OU=Asia Best Bank, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 647136517,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Asia Best Bank",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {},
+        "legalName": "",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1598600870198,
+      "modified": 1613915130136,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "44f16e8a-ea6f-4c5b-835a-24dee2ff1251"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Asia Best Bank, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "CC915073FAD6A8DEC1085F2551C2496D677281176269BB3FE0D2A0A5553FEF08(0)",
+    "_data": {
+      "member": "OU=Good Design, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 576038790,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Good Design",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Good Design",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Good Design",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1598600826244,
+      "modified": 1613528113217,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "d7e12a55-0976-4efc-9dbf-efc37b0f84da"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Good Design, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "1F348105542A270D47B6E100CA94439B82C81AEFF9E2C8B6CF0269CF1035F031(0)",
+    "_data": {
+      "member": "OU=Bayfront Bank, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 296240999,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Bayfront Bank",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Bayfront Bank",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Bayfront Bank",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1612529697746,
+      "modified": 1613455733609,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "3025c025-2893-4a5c-b517-2e55afd22a5b"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=Bayfront Bank, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "7400122CF88053C584358E7070A157A7BF3E62807F32B54ECD66EC0089744013(0)",
+    "_data": {
+      "member": "OU=CIB ITO-CORDA, O=Standard Chartered Bank Bangladesh Branch Limited, L=Dhaka, C=BD",
+      "bno": "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+      "clientId": 460503030,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Standard Chartered Bank Bangladesh Branch Limited",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Standard Chartered Bank Bangladesh Branch Limited",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Standard Chartered Bank Bangladesh Branch Limited",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1610088321237,
+      "modified": 1612168684396,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "f2592add-257d-4287-aa3a-793d325a4e77"
+      },
+      "participants": [
+        "OU=Trade Finance, O=Global Trade Network, L=Singapore, C=SG",
+        "OU=CIB ITO-CORDA, O=Standard Chartered Bank Bangladesh Branch Limited, L=Dhaka, C=BD"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  }
 ]
